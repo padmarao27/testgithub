@@ -1,0 +1,4 @@
+PURCHASE_Supplierid###PURCHASE_Notes###PURCHASE_TotalAmount###PURCHSE_TotalPayment
+id1###first###3000###2000
+id2###second###5000###3000
+id3###third###10000###2000

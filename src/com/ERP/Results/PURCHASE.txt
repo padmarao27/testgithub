@@ -1,0 +1,4 @@
+PURCHASE_Supplierid###PURCHASE_Notes###PURCHASE_TotalAmount###PURCHSE_TotalPayment$$$Results
+id1&&&first@@@3000$$$2000%%%Data passed
+id2&&&second@@@5000$$$3000%%%Data passed
+id3&&&third@@@10000$$$2000%%%Data passed
